@@ -1,6 +1,6 @@
 {
   "name": "com.ferdi.gpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Git Packages Manager",
   "description": "Git Packages Manager is an Editor extension that allow a quick access to a series of existing git unity packages. The list of packages can be edited.",
   "unity": "2018.1",
