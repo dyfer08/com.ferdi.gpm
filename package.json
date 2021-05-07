@@ -1,0 +1,22 @@
+{
+  "name": "com.ferdi.gpm",
+  "version": "1.0.0",
+  "displayName": "Git Packages Manager",
+  "description": "Git Packages Manager is an Editor extension that allow a quick access to a series of existing git unity packages. The list of packages can be edited.",
+  "unity": "2018.1",
+  "keywords": [
+    "Ferdi",
+    "Git",
+    "Github",
+    "Package"
+  ],
+  "author": {
+    "name": "Ferdi",
+    "email": "dervieuxferdinand@gmail.com",
+    "url": "https://ferdinanddervieux.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyfer08/com.ferdi.gpm.git"
+  }
+}
