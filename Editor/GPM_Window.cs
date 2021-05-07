@@ -30,6 +30,10 @@ public class GPM_Window : EditorWindow{
         if(GPMSettings == null){
             Awake();
         }
+
+        if(DownloadedPackages.Count == 0 && !UpdatingListOfPackages){
+            GetListOfPackages();
+        }
         
         ScrollPos = EditorGUILayout.BeginScrollView(ScrollPos);
 
