@@ -17,6 +17,8 @@ MonoBehaviour:
     Repository: https://github.com/mob-sakai/UpmGitExtension.git
   - DisplayName: Hierarchy Color Manager
     Repository: https://github.com/dyfer08/com.ferdi.hcm.git
+  - DisplayName: TODO List
+    Repository: https://github.com/dyfer08/com.ferdi.todo.git
   - DisplayName: VFX Graph Collection
     Repository: https://github.com/dyfer08/com.ferdi.vfx.git
   - DisplayName: Shader Graph Collection
